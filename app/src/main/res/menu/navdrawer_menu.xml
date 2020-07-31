@@ -4,10 +4,10 @@
 
     <item
         android:id="@+id/rulesFragment"
-        android:icon="@drawable/rules"
+        android:icon="@android:drawable/ic_menu_call"
         android:title="@string/rules" />
     <item
         android:id="@+id/aboutFragment"
-        android:icon="@drawable/about_android_trivia"
+        android:icon="@android:drawable/ic_menu_my_calendar"
         android:title="@string/about" />
 </menu>
