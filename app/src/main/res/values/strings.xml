@@ -50,4 +50,6 @@
     <string name="contect">My Contect </string>
     <string name="facebook">: โดโด้ คาบูชิโน่</string>
     <string name="phone">: 082-6544337</string>
+    <string name="contect_list">Contect List</string>
+    <string name="hint">hint</string>
 </resources>

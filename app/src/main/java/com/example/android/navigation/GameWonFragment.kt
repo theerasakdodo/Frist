@@ -42,7 +42,9 @@ class GameWonFragment : Fragment() {
 
         setHasOptionsMenu(true)
         return binding.root
+
     }
+
     // Creating our Share Intent
     private fun getShareIntent() : Intent {
         val args = GameWonFragmentArgs.fromBundle(arguments!!)

@@ -10,4 +10,8 @@
         android:id="@+id/aboutFragment"
         android:icon="@android:drawable/ic_menu_my_calendar"
         android:title="@string/about" />
+    <item
+        android:id="@+id/contectListFragment"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/contect_list" />
 </menu>

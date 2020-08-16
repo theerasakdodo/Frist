@@ -69,4 +69,8 @@
         android:name="com.example.android.navigation.ContectFragment"
         android:label="Contect"
         tools:layout="@layout/fragment_contect" />
+    <fragment
+        android:id="@+id/contectListFragment"
+        android:name="com.example.android.navigation.ContectListFragment"
+        android:label="ContectListFragment" />
 </navigation>
